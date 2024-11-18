@@ -9,11 +9,6 @@
  https://github.com/user-attachments/assets/18afb59d-d368-453a-8c93-5acec77f8040
 
 
-https://github.com/user-attachments/assets/c3b2bf29-bf70-4226-8f03-494045f80caa
-
-
- 
-
 <h2>🛠️ Technologies Used</h2>
  <ul>
    <li>HTML5: For structuring the application.</li>
