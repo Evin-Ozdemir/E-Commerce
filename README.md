@@ -9,6 +9,7 @@
  https://github.com/user-attachments/assets/18afb59d-d368-453a-8c93-5acec77f8040
 
 
+https://www.veed.io/view/9452d101-99b1-43a4-aef1-22093e3c8627?panel=share
 <h2>🛠️ Technologies Used</h2>
  <ul>
    <li>HTML5: For structuring the application.</li>
