@@ -6,9 +6,8 @@
  <h2>📸 Project Demo</h2>
  <p>A preview of the e-commerce platform showcasing product listings and cart functionality.</p>
 
- https://github.com/user-attachments/assets/18afb59d-d368-453a-8c93-5acec77f8040
-![ecommerce_compressed-VEED](https://github.com/user-attachments/assets/259f5873-f288-420b-9d64-ea0fabfe2022)
 
+https://github.com/user-attachments/assets/f6f66cee-68b4-4dd2-b248-4452f172a0f7
 
 
 <h2>🛠️ Technologies Used</h2>
